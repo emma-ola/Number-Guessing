@@ -18,7 +18,6 @@ print('I\'m thinking of a number between 1 and 100.')
 difficulty_level = input('Choose a difficulty. Type \'easy\' or \'hard\': ')
 is_game_over = False
 RANDOM_NUMBER = randint(1, 100)
-print(RANDOM_NUMBER)
 
 if difficulty_level == 'easy':
     attempts = 10
