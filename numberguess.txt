@@ -1,0 +1,6 @@
+1. get the difficulty level
+2. If difficulty is easy set lives to 10 or 5 for hard
+3. generate a random number
+4. Ask the user for their guess
+5. check if the guess is the same as the random number. if it is not tell them if they were too high or too low
+6. the game ends only when the user has exhausted all live or guess correctly.
